@@ -12,6 +12,8 @@
 		467BFFB1251C22BA00472D73 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 467BFFB0251C22BA00472D73 /* Assets.xcassets */; };
 		467BFFB4251C22BA00472D73 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 467BFFB3251C22BA00472D73 /* Preview Assets.xcassets */; };
 		467BFFD5251E732C00472D73 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 467BFFD4251E732C00472D73 /* MapView.swift */; };
+		467BFFD8251EE4A500472D73 /* MKPointAnnotation-ObservableObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = 467BFFD7251EE4A500472D73 /* MKPointAnnotation-ObservableObject.swift */; };
+		467BFFDB251EE70000472D73 /* EditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 467BFFDA251EE70000472D73 /* EditView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		467BFFB3251C22BA00472D73 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		467BFFB5251C22BA00472D73 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		467BFFD4251E732C00472D73 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
+		467BFFD7251EE4A500472D73 /* MKPointAnnotation-ObservableObject.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "MKPointAnnotation-ObservableObject.swift"; sourceTree = SOURCE_ROOT; };
+		467BFFDA251EE70000472D73 /* EditView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +58,8 @@
 		467BFFAB251C22B300472D73 /* BucketList */ = {
 			isa = PBXGroup;
 			children = (
+				467BFFD7251EE4A500472D73 /* MKPointAnnotation-ObservableObject.swift */,
+				467BFFDA251EE70000472D73 /* EditView.swift */,
 				467BFFAC251C22B300472D73 /* BucketListApp.swift */,
 				467BFFAE251C22B300472D73 /* ContentView.swift */,
 				467BFFD4251E732C00472D73 /* MapView.swift */,
@@ -142,6 +148,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				467BFFAF251C22B300472D73 /* ContentView.swift in Sources */,
+				467BFFDB251EE70000472D73 /* EditView.swift in Sources */,
+				467BFFD8251EE4A500472D73 /* MKPointAnnotation-ObservableObject.swift in Sources */,
 				467BFFD5251E732C00472D73 /* MapView.swift in Sources */,
 				467BFFAD251C22B300472D73 /* BucketListApp.swift in Sources */,
 			);
