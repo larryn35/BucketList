@@ -27,7 +27,7 @@
 		467BFFB3251C22BA00472D73 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		467BFFB5251C22BA00472D73 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		467BFFD4251E732C00472D73 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
-		467BFFD7251EE4A500472D73 /* MKPointAnnotation-ObservableObject.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "MKPointAnnotation-ObservableObject.swift"; sourceTree = SOURCE_ROOT; };
+		467BFFD7251EE4A500472D73 /* MKPointAnnotation-ObservableObject.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = "MKPointAnnotation-ObservableObject.swift"; path = "BucketList/MKPointAnnotation-ObservableObject.swift"; sourceTree = SOURCE_ROOT; };
 		467BFFDA251EE70000472D73 /* EditView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditView.swift; sourceTree = "<group>"; };
 		467BFFE2251EF9CB00472D73 /* WikiResult.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WikiResult.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
