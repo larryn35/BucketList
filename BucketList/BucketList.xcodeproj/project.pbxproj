@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		464956E6251F17AB00B34B26 /* MKPointAnnotation-Codable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 464956E5251F17AB00B34B26 /* MKPointAnnotation-Codable.swift */; };
 		467BFFAD251C22B300472D73 /* BucketListApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 467BFFAC251C22B300472D73 /* BucketListApp.swift */; };
 		467BFFAF251C22B300472D73 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 467BFFAE251C22B300472D73 /* ContentView.swift */; };
 		467BFFB1251C22BA00472D73 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 467BFFB0251C22BA00472D73 /* Assets.xcassets */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		464956E5251F17AB00B34B26 /* MKPointAnnotation-Codable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "MKPointAnnotation-Codable.swift"; sourceTree = "<group>"; };
 		467BFFA9251C22B300472D73 /* BucketList.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BucketList.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		467BFFAC251C22B300472D73 /* BucketListApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BucketListApp.swift; sourceTree = "<group>"; };
 		467BFFAE251C22B300472D73 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 			children = (
 				467BFFD7251EE4A500472D73 /* MKPointAnnotation-ObservableObject.swift */,
 				467BFFDA251EE70000472D73 /* EditView.swift */,
+				464956E5251F17AB00B34B26 /* MKPointAnnotation-Codable.swift */,
 				467BFFE2251EF9CB00472D73 /* WikiResult.swift */,
 				467BFFAC251C22B300472D73 /* BucketListApp.swift */,
 				467BFFAE251C22B300472D73 /* ContentView.swift */,
@@ -150,6 +153,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				464956E6251F17AB00B34B26 /* MKPointAnnotation-Codable.swift in Sources */,
 				467BFFAF251C22B300472D73 /* ContentView.swift in Sources */,
 				467BFFDB251EE70000472D73 /* EditView.swift in Sources */,
 				467BFFE3251EF9CB00472D73 /* WikiResult.swift in Sources */,
